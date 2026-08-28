@@ -157,18 +157,29 @@ flowchart TD
 
 ## 7. Screenshots
 
-> Replace the placeholders below with actual screenshots saved in the `screenshots/` folder.
+### Registration Form
+![Registration Form](screenshots/registration-form.png)
 
-| Screenshot | File |
-|---|---|
-| Registration Form | `screenshots/registration-form.png` |
-| Validation Errors | `screenshots/validation-errors.png` |
-| Flash Success Message | `screenshots/success-message.png` |
-| Uploaded Profile Picture | `screenshots/profile-picture.png` |
-| Student Profile Page | `screenshots/student-profile.png` |
-| Database Records (phpMyAdmin) | `screenshots/database-records.png` |
-| VS Code Project Structure | `screenshots/vscode-structure.png` |
-| GitHub Repository | `screenshots/github-repo.png` |
+### Validation Errors
+![Validation Errors](screenshots/validation-errors.png)
+
+### Flash Success Message
+![Flash Success Message](screenshots/success-message.png)
+
+### Uploaded Profile Picture
+![Uploaded Profile Picture](screenshots/profile-picture.png)
+
+### Student Profile Page
+![Student Profile Page](screenshots/student-profile.png)
+
+### Database Records (phpMyAdmin)
+![Database Records](screenshots/database-records.png)
+
+### VS Code Project Structure
+![VS Code Project Structure](screenshots/vscode-structure.png)
+
+### GitHub Repository
+![GitHub Repository](screenshots/github-repo.png)
 
 ## 8. Problems I Encountered
 

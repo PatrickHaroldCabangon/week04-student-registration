@@ -169,8 +169,6 @@ flowchart TD
 | Database Records (phpMyAdmin) | `screenshots/database-records.png` |
 | VS Code Project Structure | `screenshots/vscode-structure.png` |
 | GitHub Repository | `screenshots/github-repo.png` |
-| Terminal Output | `screenshots/terminal-output.png` |
-| Browser Output | `screenshots/browser-output.png` |
 
 ## 8. Problems I Encountered
 
